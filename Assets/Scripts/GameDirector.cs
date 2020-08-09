@@ -24,8 +24,9 @@ public class GameDirector : MonoBehaviour
         }else if(marbleTypeTag == "BlueMarble")
         {
             this.score += score;
-        }else if(marbleTypeTag == "BlackMarble")
+        }else if(marbleTypeTag == "BlackMarble" && score != 0)
         {
+            // 黒色ビー玉かつどこかの得点スポットに入った場合
             this.score = this.score / 2;
         }
     }
