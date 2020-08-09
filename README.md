@@ -15,6 +15,8 @@
 
 
 ## 外部アセット
+このコードは以下の外部アセットを使用しますので、事前にインストールしてください。
+
 * [Original Wood Textures](https://assetstore.unity.com/packages/2d/textures-materials/wood/15-original-wood-texture-71286)
 * [Yughues Free PBR Metal Plates](https://assetstore.unity.com/packages/2d/textures-materials/metals/yughues-free-pbr-metal-plates-35362)
 
