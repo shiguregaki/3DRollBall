@@ -1,6 +1,8 @@
 # 3DRollBall
-[作成したもの]
+
+## 作成したもの
 ![](docs/3DRollBall_demo.gif)
+
 
 * ビー玉をばね付きの棒で押し出して飛ばす
 * ビー玉が転がるステージ上に釘が打ちつけられており、ビー玉は釘や外枠に衝突しながら落下していく
@@ -11,9 +13,11 @@
   * 「赤色のビー玉」は5倍の得点が入る
   * 「黒色のビー玉」はどこかの得点スポットに入ったら、現得点が半分になる(一番下まで落下させられば半分にはならない)
 
-[外部アセット]
+
+## 外部アセット
 * [Original Wood Textures](https://assetstore.unity.com/packages/2d/textures-materials/wood/15-original-wood-texture-71286)
 * [Yughues Free PBR Metal Plates](https://assetstore.unity.com/packages/2d/textures-materials/metals/yughues-free-pbr-metal-plates-35362)
 
-[参考ブログ]
+
+## 参考ブログ
 [Unityで3D玉転がしゲームを作ってみる！](https://create-it-myself.com/summary/create-3d-rollball-by-unity)
